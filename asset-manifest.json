@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SUMMER-KINGS/static/css/main.45ae7c39.css",
+    "main.js": "/SUMMER-KINGS/static/js/main.5280a388.js",
+    "index.html": "/SUMMER-KINGS/index.html",
+    "main.45ae7c39.css.map": "/SUMMER-KINGS/static/css/main.45ae7c39.css.map",
+    "main.5280a388.js.map": "/SUMMER-KINGS/static/js/main.5280a388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ae7c39.css",
+    "static/js/main.5280a388.js"
+  ]
+}
